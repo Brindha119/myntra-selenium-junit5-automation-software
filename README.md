@@ -1,9 +1,9 @@
 # End-to-End Web Automation of Myntra using Selenium, JUnit 5 & Formal QA Techniques
 
-**Course:** Software Testing & Quality Assurance (ISE2501) 
-**Target application:** Myntra – https://www.myntra.com
+Course:Software Testing & Quality Assurance (ISE2501) 
+Target application: Myntra – https://www.myntra.com
 
-**Team:**
+Team:
 1. Brindha Yadav R K– *Automation Architect & Framework Engineer*  
 2. C S Bhagath Shetty – *Test Designer & White-Box Specialist*
 
@@ -100,14 +100,11 @@ Eclipse: right-click `src/main/java/com/ise/myntra/demo/LiveDemo.java` → Run A
 | Failure screenshots | automatic | `target/screenshots/` |
 
 ## 7. Troubleshooting
-- **"Access Denied" / blank page:** Myntra's bot protection blocked the session. Run non-headless, slow down, retry later or from another network. The `whitebox` suite always works offline.
-- **`NoSuchElement` / timeout:** the site changed its HTML. Re-inspect the element (F12) and update the locator in the matching page class – this is the only place locators live.
+- "Access Denied" / blank page: Myntra's bot protection blocked the session. Run non-headless, slow down, retry later or from another network. The `whitebox` suite always works offline.
+- `NoSuchElement` / timeout: the site changed its HTML. Re-inspect the element (F12) and update the locator in the matching page class – this is the only place locators live.
 - **Driver errors:** update Chrome, or run `mvn clean test` again so WebDriverManager refreshes the driver.
 
 ## 8. Demo
 `docs/demo.mp4` (or `.gif`) – screen recording of a full run. *(add before submitting)*
 
-## 9. Contribution split
-| Student A | Student B |
-|---|---|
-| pom.xml, WebDriver lifecycle, cross-browser, Page Objects, waits, reports | ECP/BVA tables, CFG, V(G), basis paths, CSV data, parameterized tests, defect log |
+
