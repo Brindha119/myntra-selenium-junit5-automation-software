@@ -2,6 +2,7 @@
 
 **Course:** Software Testing & Quality Assurance (ISE2501) 
 **Target application:** Myntra – https://www.myntra.com
+
 **Team:**
 1. Brindha Yadav R K– *Automation Architect & Framework Engineer*  
 2. C S Bhagath Shetty – *Test Designer & White-Box Specialist*
