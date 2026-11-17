@@ -1,9 +1,10 @@
 # End-to-End Web Automation of Myntra using Selenium, JUnit 5 & Formal QA Techniques
 
-**Course:** Software Testing & Quality Assurance (ISE2501) – CA3
+**Course:** Software Testing & Quality Assurance (ISE2501) 
 **Target application:** Myntra – https://www.myntra.com
-**Team:** Student A – *Automation Architect & Framework Engineer* | Student B – *Test Designer & White-Box Specialist*
-(Fill in: names, USNs, section)
+**Team:**
+1. Brindha Yadav R K– *Automation Architect & Framework Engineer*  
+2. C S Bhagath Shetty – *Test Designer & White-Box Specialist*
 
 ## 1. What this project does
 | Technique | Where |
